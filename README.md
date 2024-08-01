@@ -1,5 +1,7 @@
-Olá, seja bem vindo(a)!💗
+**bem vindo ao meu perfil 😎**
 
-Meu nome é Manuela Menim. Estudo no colégio Laranjeiras do Sul e estou no segundo B💗
+- meu nome é felipe
 
-![](https://media1.tenor.com/m/QGYOjLUamAkAAAAC/hello-kitty-cafe.gif)
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvolvendo nas linguagens de programação
+  
